@@ -1,4 +1,6 @@
 # NovaMED-Sales-Data
+<img width="844" height="547" alt="NovaMed SS" src="https://github.com/user-attachments/assets/0a88bcb0-c6c0-4b34-9089-60f2506c8cdb" />
+
 Data Analytics Project Highlight for NovaMed SalesData
 
 I recently built an interactive Sales & Operations Performance Dashboard for NovaMed Pharmaceuticals, designed to uncover the trends driving revenue, top-selling products, and buyer behavior across global markets. The dashboard gives a high-level view of company performance, making it easy for executives to track growth and profitability in real time.
